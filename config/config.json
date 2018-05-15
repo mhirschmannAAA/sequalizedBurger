@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "database_development",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "q0vskc8xx0irr6a4",
+    "password": "g959g8w9x3wt6twa",
+    "database": "database_production",
+    "host": "sevu12ovuxtohix7",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
